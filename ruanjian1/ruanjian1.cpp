@@ -997,3 +997,4 @@ char* randonWalk()
 	outputFile.close();
 	return NULL;
 }
+
