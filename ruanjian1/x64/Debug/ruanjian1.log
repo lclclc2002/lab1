@@ -1,0 +1,13 @@
+﻿  ruanjian1.cpp
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(68,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(100,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(257,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(544,38): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(794,25): warning C4267: “-=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(797,17): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(801,25): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(896,38): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(820,18): warning C4101: “m”: 未引用的局部变量
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(820,15): warning C4101: “t”: 未引用的局部变量
+C:\Users\lc\Desktop\VSwork\ruanjian1\ruanjian1\ruanjian1.cpp(972,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ruanjian1.vcxproj -> C:\Users\lc\Desktop\VSwork\ruanjian1\x64\Debug\ruanjian1.exe
