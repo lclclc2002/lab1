@@ -12,6 +12,8 @@
 #pragma warning(disable:4996)
 #define MAXLEN 50
 #define INFINE 50
+
+
 struct headnode
 {
 	char id[20];//单词名
