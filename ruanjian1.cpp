@@ -10,6 +10,8 @@
 #include<math.h>
 #include<cstdlib>
 #pragma warning(disable:4996)
+
+
 #define MAXLEN 50
 #define INFINE 50
 
