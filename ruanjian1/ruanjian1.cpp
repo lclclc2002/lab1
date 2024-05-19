@@ -159,8 +159,6 @@ int find(char* word) {
 	return 0;
 }
 
-
-
 int main()
 {
 	printf("请输入初始文件名\n");
